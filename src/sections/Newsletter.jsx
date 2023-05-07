@@ -8,8 +8,10 @@ function Newsletter() {
         <div className="relative -bottom-[100px] border border-golden bg-black px-8 py-8 xs:-bottom-[120px] md:-bottom-[90px] md:px-16">
           <div className="space-y-8 md:space-y-16">
             <div className="text-center">
-              <div className="font-heading text-xl font-bold capitalize lg:text-2xl">Newsletter</div>
-              <img className="inline-block" src={images.spoon} alt="spoon" width={40} height={10} />
+              <div className="mb-4">
+                <h2 className="font-heading text-xl font-bold capitalize lg:text-2xl">Newsletter</h2>
+                <img className="inline-block" src={images.spoon} alt="spoon" width={40} height={10} />
+              </div>
               <h1 className="font-heading text-4xl font-semibold capitalize text-golden md:text-[44px] lg:text-[48px] xl:text-[64px]">
                 Subscribe to Our Newsletter
               </h1>
