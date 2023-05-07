@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Cormorant Upright';
+    src: url('fonts/CormorantUpright-Medium.woff2') format('woff2'),
+        url('fonts/CormorantUpright-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cormorant Upright';
+    src: url('fonts/CormorantUpright-Light.woff2') format('woff2'),
+        url('fonts/CormorantUpright-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cormorant Upright';
+    src: url('fonts/CormorantUpright-Bold.woff2') format('woff2'),
+        url('fonts/CormorantUpright-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cormorant Upright';
+    src: url('fonts/CormorantUpright-Regular.woff2') format('woff2'),
+        url('fonts/CormorantUpright-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Cormorant Upright';
+    src: url('fonts/CormorantUpright-SemiBold.woff2') format('woff2'),
+        url('fonts/CormorantUpright-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

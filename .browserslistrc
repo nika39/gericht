@@ -1,0 +1,5 @@
+defaults
+Chrome >= 60
+Firefox >= 60
+iOS >= 12
+Safari >= 12
